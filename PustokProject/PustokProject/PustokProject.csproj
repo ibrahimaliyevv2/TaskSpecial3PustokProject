@@ -13,4 +13,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Areas\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Areas\" />
+  </ItemGroup>
 </Project>

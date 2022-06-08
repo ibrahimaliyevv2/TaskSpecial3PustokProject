@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pu91UfByvor1qvIPNswCxZBPA9QTConScq2DIm3DlohVyj8eZvv7ySYJwKxee+SfUR+Oji12IYS1lYn2v6J6UQ==",
+  "dgSpecHash": "aGklnhXnw7cEsxkrIub44dSWl0cYFTZs252eI0cBdpTAq0IKdUZUPrSgtNSdKkz43XA5SlDtqKh0QUO9H2LaDw==",
   "success": true,
-  "projectFilePath": "/Users/ibrahimaliyevv/Projects/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj",
+  "projectFilePath": "/Users/ibrahimaliyevv/Desktop/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj",
   "expectedPackageFiles": [
     "/Users/ibrahimaliyevv/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/ibrahimaliyevv/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

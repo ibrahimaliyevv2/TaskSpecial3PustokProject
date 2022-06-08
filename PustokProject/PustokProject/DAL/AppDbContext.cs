@@ -17,5 +17,6 @@ namespace PustokProject.DAL
         public DbSet<HomeSlider> HomeSliders { get; set; }
         public DbSet<HomeFeature> HomeFeatures { get; set; }
         public DbSet<Genre> Genres { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
     }
 }

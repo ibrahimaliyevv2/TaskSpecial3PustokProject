@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ibrahimaliyevv/Projects/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj": {}
+    "/Users/ibrahimaliyevv/Desktop/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj": {}
   },
   "projects": {
-    "/Users/ibrahimaliyevv/Projects/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj": {
+    "/Users/ibrahimaliyevv/Desktop/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ibrahimaliyevv/Projects/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj",
+        "projectUniqueName": "/Users/ibrahimaliyevv/Desktop/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj",
         "projectName": "PustokProject",
-        "projectPath": "/Users/ibrahimaliyevv/Projects/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj",
+        "projectPath": "/Users/ibrahimaliyevv/Desktop/TaskSpecial3PustokProject/PustokProject/PustokProject/PustokProject.csproj",
         "packagesPath": "/Users/ibrahimaliyevv/.nuget/packages/",
-        "outputPath": "/Users/ibrahimaliyevv/Projects/TaskSpecial3PustokProject/PustokProject/PustokProject/obj/",
+        "outputPath": "/Users/ibrahimaliyevv/Desktop/TaskSpecial3PustokProject/PustokProject/PustokProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ibrahimaliyevv/.nuget/NuGet/NuGet.Config"
